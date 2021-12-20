@@ -8,8 +8,6 @@ Controller Version 1.1.4
 ====================
 
 Bug fixes:
-- Fixed heater fault protection
-- Fixed Google Drive shareable link input validation
 - Fixed heater fault protection tolerance
 
 New features:
